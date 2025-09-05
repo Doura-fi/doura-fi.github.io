@@ -1,0 +1,1 @@
+import{_ as s,c as t,o,r}from"./8Y8auOHY.js";const c={},n={class:"leading-7 [&:not(:first-child)]:mt-6"};function a(e,_){return o(),t("p",n,[r(e.$slots,"default")])}const d=Object.assign(s(c,[["render",a]]),{__name:"ProseP"});export{d as default};

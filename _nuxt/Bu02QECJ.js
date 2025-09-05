@@ -1,0 +1,1 @@
+import{_ as s,c as t,o,a,r as c}from"./8Y8auOHY.js";const l={},r={class:"w-full overflow-y-auto [&:not(:first-child)]:mt-6 [&:not(:last-child)]:mb-6"},n={class:"w-full"};function _(e,d){return o(),t("div",r,[a("table",n,[c(e.$slots,"default")])])}const i=Object.assign(s(l,[["render",_]]),{__name:"ProseTable"});export{i as default};

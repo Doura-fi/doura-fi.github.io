@@ -1,0 +1,1 @@
+import{_ as o,c as t,o as s,r as c}from"./CEHpOclK.js";const r={},l={class:"border-l-2 pl-6 italic [&:not(:first-child)]:mt-6"};function n(e,a){return s(),t("blockquote",l,[c(e.$slots,"default")])}const i=Object.assign(o(r,[["render",n]]),{__name:"ProseBlockquote"});export{i as default};

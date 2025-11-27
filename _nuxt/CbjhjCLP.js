@@ -1,0 +1,1 @@
+import{_ as s,c as t,o,r}from"./CEHpOclK.js";const c={},n={class:"divide-y [&:not(:first-child)]:mt-6"};function a(e,d){return o(),t("div",n,[r(e.$slots,"default")])}const _=Object.assign(s(c,[["render",a]]),{__name:"FieldGroup"});export{_ as default};

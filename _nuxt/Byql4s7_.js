@@ -1,0 +1,1 @@
+import{_ as r,c as s,o as t,r as o}from"./DPHlfjgI.js";const c={},n={class:"even:bg-muted/50 m-0 border-t p-0"};function a(e,_){return t(),s("tr",n,[o(e.$slots,"default")])}const l=Object.assign(r(c,[["render",a]]),{__name:"ProseTr"});export{l as default};

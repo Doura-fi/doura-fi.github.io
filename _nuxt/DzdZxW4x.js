@@ -1,0 +1,1 @@
+import{_ as t,c as r,o,r as s}from"./Cx_gAw9W.js";const n={},c={class:"border px-4 py-2 text-left font-bold [&[align=center]]:text-center [&[align=right]]:text-right"};function a(e,l){return o(),r("th",c,[s(e.$slots,"default")])}const f=Object.assign(t(n,[["render",a]]),{__name:"ProseTh"});export{f as default};

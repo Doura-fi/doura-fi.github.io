@@ -1,1 +1,0 @@
-import{_ as r,c as t,o as a,r as o}from"./DPHlfjgI.js";const s={},c={class:"grid grid-cols-[repeat(auto-fit,_minmax(270px,_1fr))] gap-6 [&:not(:first-child)]:mt-5"};function n(e,_){return a(),t("div",c,[o(e.$slots,"default")])}const i=Object.assign(r(s,[["render",n]]),{__name:"TeamCardGroup"});export{i as default};

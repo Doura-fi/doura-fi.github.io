@@ -1,0 +1,1 @@
+import e from"./BXdjFjda.js";import{f as n,k as a,w as r,o as s,r as l}from"./Cx_gAw9W.js";const c=n({__name:"Callout",props:{icon:{},to:{},target:{}},setup(_){return(t,p)=>{const o=e;return s(),a(o,{icon:t.icon,to:t.to,target:t.target},{default:r(()=>[l(t.$slots,"default")]),_:3},8,["icon","to","target"])}}}),u=Object.assign(c,{__name:"Callout"});export{u as default};

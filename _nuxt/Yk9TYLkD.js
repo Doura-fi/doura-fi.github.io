@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as c}from"./h6Avs_Ig.js";const r={},t={class:"[&:not(:first-child)]:mt-6"};function o(n,_){return c(),s("hr",t)}const f=Object.assign(e(r,[["render",o]]),{__name:"ProseHr"});export{f as default};
